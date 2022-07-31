@@ -1,0 +1,17 @@
+p {
+    background-color: white;
+    color: rgb(255, 247, 0);
+    font-size: 24px;
+}
+
+ul {
+    background-color: blue;
+    color: black;
+    font-size: 24px;
+}
+
+div {
+    background-color: red;
+    color: black;
+    font-size: 24px;
+}
